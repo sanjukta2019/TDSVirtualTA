@@ -1,0 +1,1 @@
+A FastAPI-based intelligent assistant built to support the Tools in Data Science (TDS) course offered by IIT Madras. This assistant can answer student queries by retrieving relevant forum and documentation content, powered by semantic search and language models.
